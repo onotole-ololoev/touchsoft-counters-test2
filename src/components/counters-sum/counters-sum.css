@@ -1,0 +1,7 @@
+.table {
+    border: 2px solid black;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 10px;
+}

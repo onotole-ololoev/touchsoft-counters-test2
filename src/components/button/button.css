@@ -1,0 +1,11 @@
+.btn {
+    width: 80px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 2px;
+}

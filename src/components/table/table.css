@@ -1,0 +1,7 @@
+.table {
+    border: 2px solid black;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: white;
+}
